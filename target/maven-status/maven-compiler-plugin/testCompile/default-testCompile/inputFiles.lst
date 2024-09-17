@@ -1,1 +1,4 @@
-/Users/teomesrkhani/Downloads/running-tracker/src/test/java/com/teomesrkhani/running_tracker/RunningTrackerApplicationTests.java
+/Users/teomesrkhani/Downloads/running-tracker/src/test/java/com/teomesrkhani/running_tracker/run/RunControllerTest.java
+/Users/teomesrkhani/Downloads/running-tracker/src/test/java/com/teomesrkhani/running_tracker/run/RunRepositoryTest.java
+/Users/teomesrkhani/Downloads/running-tracker/src/test/java/com/teomesrkhani/running_tracker/ApplicationTests.java
+/Users/teomesrkhani/Downloads/running-tracker/src/test/java/com/teomesrkhani/running_tracker/run/RunControllerIntegrationTest.java

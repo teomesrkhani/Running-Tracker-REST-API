@@ -1,1 +1,5 @@
-com/teomesrkhani/running_tracker/RunningTrackerApplicationTests.class
+com/teomesrkhani/running_tracker/run/RunRepositoryTest.class
+com/teomesrkhani/running_tracker/run/RunControllerIntegrationTest$1.class
+com/teomesrkhani/running_tracker/run/RunControllerIntegrationTest.class
+com/teomesrkhani/running_tracker/run/RunControllerTest.class
+com/teomesrkhani/running_tracker/ApplicationTests.class

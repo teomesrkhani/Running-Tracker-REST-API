@@ -1,8 +1,13 @@
 com/teomesrkhani/running_tracker/run/Runs.class
 com/teomesrkhani/running_tracker/run/RunController.class
 com/teomesrkhani/running_tracker/run/Run.class
-com/teomesrkhani/running_tracker/Application.class
 com/teomesrkhani/running_tracker/run/RunRepository.class
-com/teomesrkhani/running_tracker/run/RunNotFoundException.class
 com/teomesrkhani/running_tracker/run/Location.class
 com/teomesrkhani/running_tracker/run/RunJsonDataLoader.class
+com/teomesrkhani/running_tracker/user/UserHttpClient.class
+com/teomesrkhani/running_tracker/user/Address.class
+com/teomesrkhani/running_tracker/Application.class
+com/teomesrkhani/running_tracker/run/RunNotFoundException.class
+com/teomesrkhani/running_tracker/user/Company.class
+com/teomesrkhani/running_tracker/user/Geo.class
+com/teomesrkhani/running_tracker/user/User.class

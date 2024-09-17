@@ -1,8 +1,13 @@
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/Application.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/RunController.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/user/Company.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/Runs.java
 /Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/RunRepository.java
 /Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/Run.java
 /Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/Location.java
 /Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/RunNotFoundException.java
-/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/Application.java
-/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/RunController.java
-/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/Runs.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/user/UserHttpClient.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/user/User.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/user/Geo.java
+/Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/user/Address.java
 /Users/teomesrkhani/Downloads/running-tracker/src/main/java/com/teomesrkhani/running_tracker/run/RunJsonDataLoader.java

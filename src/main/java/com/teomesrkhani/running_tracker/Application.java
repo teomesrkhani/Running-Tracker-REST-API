@@ -2,6 +2,7 @@ package com.teomesrkhani.running_tracker;
 
 import com.teomesrkhani.running_tracker.user.User;
 import com.teomesrkhani.running_tracker.user.UserHttpClient;
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
@@ -15,6 +16,8 @@ import org.springframework.web.service.invoker.HttpServiceProxyFactory;
 import java.util.List;
 
 @SpringBootApplication
+@OpenAPIDefinition(info = @io.swagger.v3.oas.annotations.info.Info(title = "Teo's Running Tracker", version = "1.0",
+description = "An API to Track your Runs!"))
 public class Application {
 
 
@@ -36,7 +39,7 @@ public class Application {
 	CommandLineRunner runner(UserHttpClient userHttpClient) {
 		return args -> {
 			List<User> users = userHttpClient.findAll();
-			System.out.println(users);
+			//System.out.println(users);
 		};
 	}
 
