@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS RUN;
+
+CREATE TABLE IF NOT EXISTS RUN (
+    id INT NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    startTime TIMESTAMP NOT NULL,
+    endTime TIMESTAMP NOT NULL,
+    kilometers INT NOT NULL,
+    location VARCHAR(50) NOT NULL,
+    PRIMARY KEY (id)
+);

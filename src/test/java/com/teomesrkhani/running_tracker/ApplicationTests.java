@@ -4,10 +4,12 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RunningTrackerApplicationTests {
+class ApplicationTests {
 
+	// Keeping this test empty for a sanity check
 	@Test
 	void contextLoads() {
 	}
 
 }
+
