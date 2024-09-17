@@ -1,1 +1,1 @@
-# Running-Tracker-REST-API
+# Running Tracker REST API (Spring Boot)
