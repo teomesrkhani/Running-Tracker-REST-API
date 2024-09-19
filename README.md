@@ -11,3 +11,9 @@ The application uses Docker Compose to containerize it, eliminating the need to 
 ```shell
 docker-compose up
 ```
+
+## Tech Used
+
+- Spring Boot 3 (Maven)
+- PostgreSQL
+- OpenAPI, Postman, Docker, Docker-Compose
