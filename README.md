@@ -2,7 +2,7 @@
 
 ## Demo
 
-The container is deployed to the cloud for quick access. [See it live!](https://running-tracker-rest-api.up.railway.app/swagger-ui/index.html)
+The Dockerized application is deployed to the cloud for quick and easy access. [View it here!](https://running-tracker-rest-api.up.railway.app/swagger-ui/index.html)
 
 ## Running Locally
 
